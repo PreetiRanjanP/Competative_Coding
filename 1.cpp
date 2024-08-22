@@ -1,3 +1,5 @@
+/*Write a code wether a person is eligible for vote or not*/
+
 #include<iostream>
 using namespace std;
 

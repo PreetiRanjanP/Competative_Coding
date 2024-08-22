@@ -1,3 +1,5 @@
+/*Write a code to find the perimeter of a circle*/
+
 #include<iostream>
 //#PI 3.14
 using namespace std;
